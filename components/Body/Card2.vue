@@ -249,7 +249,7 @@
         <p class="text-center mb-16">how we ensure your accounts are safe with us</p>
 
         <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6 mt-20">
-            <div class="basis-1/2">
+            <div class="basis-1/3">
                 <div class="ml-5">
                     <svg class="w-[40px] h-[40px] text-gray-800 dark:text-white" aria-hidden="true"
                         xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -262,7 +262,7 @@
                 <p class="ml-5">your account.</p>
             </div>
 
-            <div class="basis-1/2">
+            <div class="basis-1/3">
                 <div>
                     <svg class="w-[40px] h-[40px] text-gray-800 dark:text-white" aria-hidden="true"
                         xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -278,7 +278,7 @@
         </div>
 
         <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6 mt-20">
-            <div class="basis-1/2">
+            <div class="basis-1/3">
                 <div>
                     <svg class="w-[34px] h-[34px] text-gray-800 dark:text-white" aria-hidden="true"
                         xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -292,7 +292,7 @@
                 <p class="mt-6">All your sensitive data, including cards and bank details, are</p>
                 <p class="">encrypted to prevent unauthorized access</p>
             </div>
-            <div class="basis-1/2">
+            <div class="basis-1/3">
                 <div>
                     <svg class="w-[36px] h-[36px] text-gray-800 dark:text-white" aria-hidden="true"
                         xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">

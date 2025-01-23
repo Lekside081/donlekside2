@@ -4,7 +4,7 @@
             <div class="flex flex-col sm:flex-row justify-center items-center sm:space-y-0 sm:space-x-6">
                 <div class="basis-1/2">
                     <div class="flex space-x-14">
-                        <div class="text-white font-bold text-2xl">Payborda</div>
+                        <div class="text-white font-bold text-2xl">Donlekside</div>
                         <div class="text-white font-bold text-2xl">Company
                             <p class="mt-4 text-gray-200 text-sm">About Us</p>
                             <p class="mt-4 text-gray-200 text-sm">Careers</p>
